@@ -1,6 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
-# The [SWAN](https://swan.web.cern.ch) Examples
+==============================================================================
+The [SWAN](https://swan.web.cern.ch) Examples
+==============================================================================
 A set of examples for [CERN SWAN](https://swan.web.cern.ch) a *S*ervice for *W*eb based *AN*alysis. 
 With [SWAN](https://swan.web.cern.ch) you can:
 * Analyse data without the need to install any software
@@ -14,7 +16,7 @@ With [SWAN](https://swan.web.cern.ch) you can:
 
 Authors: Danilo Piparo, Enric Tejedor
 
-Copyright CERN
+Copyright [CERN](http://www.cern.ch)
 
 .. |open-swan| image::  https://img.shields.io/badge/Open%20in-SWAN-orange.svg
     :target: https://swan002.cern.ch/?projurl=https://github.com/dpiparo/swanExamples.git
