@@ -1,3 +1,5 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
 # The [SWAN](https://swan.web.cern.ch) Examples
 A set of examples for [CERN SWAN](https://swan.web.cern.ch) a *S*ervice for *W*eb based *AN*alysis. 
 With [SWAN](https://swan.web.cern.ch) you can:
@@ -11,6 +13,7 @@ With [SWAN](https://swan.web.cern.ch) you can:
 |open-swan|
 
 Authors: Danilo Piparo, Enric Tejedor
+
 Copyright CERN
 
 .. |open-swan| image::  https://img.shields.io/badge/Open%20in-SWAN-orange.svg
