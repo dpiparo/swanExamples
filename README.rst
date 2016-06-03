@@ -3,7 +3,7 @@
 ==============================================================================
 The SWAN_ Examples
 ==============================================================================
-A set of examples for CERN_ SWAN_ a *S*ervice for *W*eb based *AN*alysis. 
+A set of examples for CERN_ SWAN_ a **S**ervice for **W**eb based **AN**alysis. 
 With SWAN_ you can:
 * Analyse data without the need to install any software
 * Jupyter notebook interface as well as shell access from the browser
