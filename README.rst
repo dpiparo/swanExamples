@@ -20,7 +20,7 @@ Authors: Danilo Piparo, Enric Tejedor
 Copyright CERN_
 
 .. |open-swan| image::  http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
-    :target: https://swanserver.web.cern.ch/cgi-bin/go?projurl=https://github.com/dpiparo/swanExamples.git
+    :target: https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/dpiparo/swanExamples.git
     :alt: Open in SWAN
 .. _SWAN: http://swan.web.cern.ch
 .. _CERNBOX: http://cernbox.web.cern.ch
